@@ -1,4 +1,4 @@
-import os, sys, requests, bs4, time
+import requests, bs4
 from bs4 import BeautifulSoup
 
 dorks=open("dorks_sqli.txt","r")
