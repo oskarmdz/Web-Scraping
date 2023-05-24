@@ -1,4 +1,4 @@
-import requests, bs4
+import requests, time
 from bs4 import BeautifulSoup
 
 dorks=open("dorks_sqli.txt","r")
