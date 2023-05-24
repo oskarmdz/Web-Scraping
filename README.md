@@ -1,2 +1,2 @@
-# cyber-security-projects
-Una colección de herramientas creadas por mi, que pueden ser utilizadas en el marco de la ciberseguridad.
+# dorking.py 
+Un sencillo script en python que trata de buscar páginas que posiblemente sean vulnerables a la inyección de código, en este caso, código SQL.
