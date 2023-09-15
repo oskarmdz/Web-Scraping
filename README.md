@@ -7,3 +7,6 @@ El dorking no es mas que una busqueda avanzada en donde hacemos uso de operadore
 
 # ip_list_by_country_generator.py
 Este script realiza web scraping sobre ipdeny.com y obtiene una lista de ASN's para generar un diccionario de todas las IP's posibles del país seleccionado. Al ejecutar el script se mostrarán instrucciones sobre cómo utilizar el mismo.
+
+# search_users_in_sn.py
+Este script realiza busca un nombre de usuarios en diferentes redes sociales.
